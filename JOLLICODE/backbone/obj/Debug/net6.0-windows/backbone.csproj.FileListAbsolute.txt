@@ -1,0 +1,505 @@
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.Form1.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.form2.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\ref\backbone.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.aLoginForm.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.bChangepass.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.bVerification.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.cAdmin1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.dItemForm.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.eUpdateAvailability.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.eUpdatePrice.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.formItem1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.formItem2.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.formItem3.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.fRecordsForm1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForm.gRecordsForm2.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.Form0Start.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.Form1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.form2.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.formBeverage.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.formCustomer.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormEditOrder.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.formMainDish.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormOrderInterface.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormOrderItem.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormPayment1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormPaymentCash.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormPaymentEpayment.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormReceipt.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.formSideDish.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.FormViewOrder.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\backbone\backbone\obj\Debug\net6.0-windows\ref\backbone.dll
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.aLoginForm.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoggingOut.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ShuttingDown.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.CancelOrder.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoadingScreen.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.OrderDone.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bChangepass.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bVerification.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.cAdmin1.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.dItemForm.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdateAvailability.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdatePrice.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.fRecordsForm1.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.gRecordsForm2.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem1.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem2.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem3.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.formCustomer.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormEditOrder.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderInterface.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderItem.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPayment1.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentCash.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentEpayment.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormReceipt.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormViewOrder.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormBeverage.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormMainDish.resources
+C:\Users\daryll\OneDrive\Documents\Project\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormSideDish.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.aLoginForm.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bChangepass.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bVerification.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.cAdmin1.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.dItemForm.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdateAvailability.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdatePrice.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.fRecordsForm1.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.gRecordsForm2.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem1.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem2.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem3.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.formCustomer.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormEditOrder.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderInterface.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderItem.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPayment1.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentCash.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentEpayment.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormReceipt.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormViewOrder.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormBeverage.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormMainDish.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormSideDish.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.Form1.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.form2.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.CancelOrder.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoadingScreen.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoggingOut.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.OrderDone.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ShuttingDown.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\ref\backbone.dll
+C:\Users\Keith Carlo\Downloads\backbone\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ReceiptLoading.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.aLoginForm.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bChangepass.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bVerification.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.cAdmin1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.dItemForm.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdateAvailability.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdatePrice.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.fRecordsForm1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.gRecordsForm2.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem2.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem3.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.formCustomer.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormEditOrder.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderInterface.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderItem.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPayment1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentCash.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentEpayment.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormReceipt.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormViewOrder.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormBeverage.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormMainDish.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormSideDish.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.Form1.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.form2.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.CancelOrder.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoadingScreen.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoggingOut.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.OrderDone.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ReceiptLoading.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ShuttingDown.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\daryll\OneDrive\Desktop\backup_finals\JOLLICODE\backbone\obj\Debug\net6.0-windows\ref\backbone.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.aLoginForm.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bChangepass.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bVerification.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.cAdmin1.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.dItemForm.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdateAvailability.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdatePrice.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.fRecordsForm1.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.gRecordsForm2.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem1.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem2.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem3.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.formCustomer.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormEditOrder.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderInterface.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormOrderItem.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPayment1.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentCash.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormPaymentEpayment.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormReceipt.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.FormViewOrder.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormBeverage.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormMainDish.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormSideDish.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.Form1.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.form2.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.CancelOrder.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoadingScreen.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoggingOut.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.OrderDone.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ReceiptLoading.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ShuttingDown.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\daryll\Downloads\Jollicode\backbone\obj\Debug\net6.0-windows\ref\backbone.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\libmp3lame.32.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\libmp3lame.64.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Lame.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\daryll\Downloads\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\libmp3lame.32.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\libmp3lame.64.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Lame.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.aLoginForm.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bChangepass.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bVerification.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.cAdmin1.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.dItemForm.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdateAvailability.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdatePrice.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.fRecordsForm1.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.gRecordsForm2.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem1.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem2.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem3.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.aCustomerInformation.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.bCustomerOrderInterface.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.cOrderItem.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.dViewOrder.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.eEditOrder.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.fPayment.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.gPaymentCash.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.hPaymentEPayment.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.iReceipt.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormBeverage.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormMainDish.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormSideDish.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.CancelOrder.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoadingScreen.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoggingOut.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.OrderDone.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ReceiptLoading.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ShuttingDown.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.WelcomeInterface1.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.WelcomeInterface2.resources
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\daryll\OneDrive\Desktop\Group_12-FINAL_PROJECT\FOLDER 1 - SYSTEM\Jollicode\backbone\obj\Debug\net6.0-windows\ref\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\libmp3lame.32.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\libmp3lame.64.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.exe
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.deps.json
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.runtimeconfig.json
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Lame.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.AssemblyReference.cache
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.aLoginForm.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bChangepass.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.bVerification.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.cAdmin1.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.dItemForm.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdateAvailability.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.eUpdatePrice.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.fRecordsForm1.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.gRecordsForm2.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem1.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem2.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AdminForms.userFormItem3.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.aCustomerInformation.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.bCustomerOrderInterface.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.cOrderItem.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.dViewOrder.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.eEditOrder.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.fPayment.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.gPaymentCash.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.hPaymentEPayment.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.iReceipt.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormBeverage.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormMainDish.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.CustomerForms.userFormSideDish.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.CancelOrder.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoadingScreen.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.LoggingOut.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.OrderDone.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ReceiptLoading.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.MiscForms.ShuttingDown.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.Properties.Resources.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.WelcomeInterface1.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.WelcomeInterface2.resources
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.GenerateResource.cache
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfoInputs.cache
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.AssemblyInfo.cs
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.CoreCompileInputs.cache
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.csproj.CopyComplete
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\refint\backbone.dll
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.pdb
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\backbone.genruntimeconfig.cache
+C:\Users\daryll\OneDrive\Desktop\Finals_Comprog\Jollicode\backbone\obj\Debug\net6.0-windows\ref\backbone.dll

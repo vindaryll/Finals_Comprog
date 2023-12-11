@@ -1,0 +1,76 @@
+-- myphpAdmin: INT AUTO_INCREMENT
+-- pgAdmin: SERIAL
+
+-- Creating Database
+CREATE DATABASE finals_db; -- or your preferred dbname
+
+-- Admin Table
+CREATE TABLE Admin (
+    AdminID INT AUTO_INCREMENT PRIMARY KEY,
+    Username VARCHAR(50),
+    Password VARCHAR(255),
+    Verification VARCHAR(250)
+);
+
+-- Customer Table
+CREATE TABLE Customer (
+    CustomerID INT AUTO_INCREMENT PRIMARY KEY,
+    CustomerName VARCHAR(100),
+    ContactNumber VARCHAR(15),
+    Address VARCHAR(255)
+);
+
+-- Item Category Table
+CREATE TABLE ItemCategory (
+    CategoryID INT AUTO_INCREMENT PRIMARY KEY,
+    CategoryName VARCHAR(50) UNIQUE
+);
+
+-- Item Table
+CREATE TABLE Item (
+    ItemID INT AUTO_INCREMENT PRIMARY KEY,
+    CategoryID INT,
+    ItemName VARCHAR(255),
+    Description TEXT,
+    Price DECIMAL(10, 2),
+    Availability BOOLEAN,
+    FOREIGN KEY (CategoryID) REFERENCES ItemCategory(CategoryID)
+);
+
+-- Order Table 
+CREATE TABLE Orders (
+    OrderID INT AUTO_INCREMENT PRIMARY KEY,
+    CustomerID INT,
+    OrderTime TIMESTAMP,
+    PaymentMethod VARCHAR(50),
+    FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID) ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+-- Transaction Table
+CREATE TABLE OrderTransaction (
+    TransactionID INT AUTO_INCREMENT PRIMARY KEY,
+    OrderID INT UNIQUE,
+    Total DECIMAL(10, 2),
+    AmountPaid DECIMAL(10, 2),
+    ChangeAmount DECIMAL(10, 2),
+    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID) ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+
+-- Order Item Table (to store items within each order)
+CREATE TABLE OrderItem (
+    OrderItemID INT AUTO_INCREMENT PRIMARY KEY,
+    OrderID INT,
+    ItemID INT,
+    Quantity INT,
+    MealTotal DECIMAL(10, 2),
+    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID) ON UPDATE CASCADE ON DELETE CASCADE,
+    FOREIGN KEY (ItemID) REFERENCES Item(ItemID)
+);
+
+
+INSERT INTO Admin (Username, Password, Verification) VALUES ('Admin', 'G12pass', "MCDO");
+INSERT INTO ItemCategory (CategoryName) VALUES ('Main Dish'), ('Side Dish'), ('Beverage');
+INSERT INTO Item(CategoryID, ItemName, Description, Price, Availability)
+VALUES
+	(1, '1 PC BURGER STEAK', 'Indulge in the Jollicode Burger Steak – a delightful harmony of succulent beef patties seasoned to perfection, grilled for a mouthwatering char, and complemented by a velvety mushroom gravy with sautéed mushrooms. Served on a bed of steamed white rice, this Filipino classic offers a comforting yet sophisticated medley of flavors, capturing the essence of home-cooked goodness with a touch of culinary finesse.', 45.00, true), (1, '2 PC BURGER STEAK', 'Delight in the Jollicode Burger Steak experience, showcasing a duo of flavorful beef patties expertly seasoned, grilled to perfection for a tantalizing char, and accompanied by a velvety mushroom gravy enriched with sautéed mushrooms. Presented on a foundation of steamed white rice, this Filipino favorite presents a harmonious blend of comforting and refined flavors, encapsulating the essence of homemade goodness with a culinary finesse.', 95.00, true), (1, '1 PC CHICKEN', 'Delight in the savory allure of the Jollicode Chicken Solo, featuring a succulent and perfectly seasoned chicken piece that\'s been expertly prepared to achieve a crispy and golden-brown perfection. Whether you\'re a fan of the crispy skin or the juicy, flavorful meat beneath, this Filipino classic is a solo culinary indulgence. Served with a side of steamed white rice and your choice of delectable sauces, the Jollicode Chicken Solo offers a satisfying and flavorful experience, capturing the essence of home-cooked goodness with each delicious bite.', 95.00, true), (1, '2 PC CHICKEN', 'Indulge in the Jollicode Chicken Duo—a delightful duo of perfectly seasoned and crisply prepared chicken pieces, each offering a harmonious blend of crispy skin and juicy, flavorful meat. Served with a side of steamed white rice and your choice of delectable sauces, this Filipino classic provides a satisfying and flavorful dining experience, capturing the essence of home-cooked goodness with every succulent bite.', 143.00, true), (1, 'BS CHICKEN', 'Indulge in the Jollicode Meal—a perfect pairing of 1pc Jollicode Burger Steak, featuring a succulent beef patty with mushroom gravy, and a crispy 1pc Jollicode Chicken, served with steamed white rice. This Jollibee classic offers a delightful and satisfying blend of flavors, capturing the essence of home-cooked goodness in every bite.', 112.00, true), (1, 'SUPERMEAL', 'Savor the Jollicode Super Meal—a feast that combines the savory crunch of Jollicode Chicken, the succulence of Jollicode Burger Steak with mushroom gravy, and the heartwarming taste of Jollibee\'s sweet and savory spaghetti. Complete with steamed white rice, this ensemble offers a delightful symphony of flavors, embodying the essence of home-cooked goodness in every bite.', 192.00, true), (1, 'SPAGHETTI', 'Enjoy the classic allure of Jollicode Spaghetti—a delightful blend of sweet-style tomato sauce, minced meat, hotdogs, and ham. Combined with perfectly cooked noodles and topped with melted cheese, this dish delivers a harmonious fusion of sweet and savory flavors. Whether you\'re a seasoned fan or a first-time explorer, every forkful promises a satisfying and heartwarming taste of home.', 65.00, true), (1, 'PALABOK', 'Delve into the savory delight of Jollicode Palabok—an embodiment of Filipino culinary excellence. Immerse yourself in a blend of rice noodles bathed in a rich shrimp sauce, adorned with a medley of ingredients including chicharon and slices of hard-boiled egg. This exquisite dish ensures a harmonious balance of textures and flavors, providing a satisfying and authentic taste of traditional Filipino cuisine.', 65.00, true), (1, 'CHICKEN PALABOK', 'Experience the blend of tastes with the Jollicode Chicken, Rice, and Palabok meal. Relish the crispy Jollicode Chicken with steamed white rice, accompanied by the delightful Jollicode Palabok—a mix of rice noodles in shrimp sauce, topped with chicharon and hard-boiled egg slices. This meal promises an authentic exploration of varied Filipino flavors.', 112.00, true), (1, 'CHICKEN SPAGHETTI', 'Delight in the Jollicode Chicken, Rice, and Spaghetti meal—a fusion of flavors embodying Filipino comfort dining. Enjoy crispy Jollicode Chicken with steamed white rice, paired with the classic Jollicode Spaghetti featuring sweet-style tomato sauce, minced meat, hotdogs, and ham. This meal promises a satisfying journey through authentic Filipino tastes.', 112.00, true), (2, 'CRISPY FRIES', 'Enjoy the irresistible Jollicode Crispy Fries—a perfect side to enhance your meal. Delight in the crispy perfection of golden fries, seasoned for a satisfying balance of saltiness. Elevate your dining experience with this savory treat, adding a delightful twist to every bite.', 50.00, true), (2, 'ALOHA BURGER', 'Experience the tropical bliss of the Jollicode Aloha Burger—an exquisite blend of burger steak, pineapple\'s sweetness, ham\'s smokiness, and the creaminess of cheese. Tucked amid crisp lettuce and complemented by the perfect harmony of ketchup and mustard, each bite offers a symphony of flavors, transporting you to a paradise of taste. Delight in this distinctive creation that encapsulates the essence of a tropical getaway right on your plate.', 80.00, true), (2, 'SUNDAE', 'Indulge in the enticing Jollicode Sundae—an irresistible treat that combines velvety vanilla ice cream with a generous drizzle of rich choco syrup. The creamy ice cream texture complements the decadent chocolate flavor, providing a delightful and indulgent dessert experience. Treat yourself to this harmonious blend of cool refreshment and sweet satisfaction.', 50.00, true), (2, 'PEACH MANGO PIE', 'Delight in the exquisite Jollicode Peach Mango Pie—a scrumptious pastry filled with the perfect fusion of sweet, juicy peaches and succulent mangoes, encased in a flaky, golden-brown crust. Each bite unveils a harmonious blend of tropical flavors, offering a delightful balance of sweetness and pastry perfection. Indulge in this delectable treat that captures the essence of a tropical escape in every mouthwatering bite', 48.00, true), (2, 'MACARONI SOUP', 'Enjoy the comforting embrace of Jollicode Macaroni Soup—a bowl of warmth featuring tender macaroni, savory broth, and a medley of fresh vegetables. The flavorful broth envelopes each noodle, providing a soothing and gratifying experience with every spoonful. Dive into this nourishing soup, where the combination of hearty macaroni and wholesome vegetables offers a delightful and satisfying culinary experience.', 77.00, true), (3, 'COKE', 'Quench your thirst with the timeless refreshment of Jollicode Coke—a classic beverage that fizzes with effervescence and crispness. Dive into the satisfying, bubbly goodness that only Coca-Cola can deliver, offering the perfect balance of sweetness and carbonation. Whether enjoyed on its own or as the ideal companion to your favorite Jollicode meal, Jollicode Coke is the iconic, uplifting drink that never goes out of style.', 53.00, true), (3, 'SPRITE', 'Experience the refreshing zing of Jollicode Sprite—a sparkling beverage that tingles with citrusy goodness and a burst of effervescence. Dive into the crisp, clear taste that defines Sprite, offering a delightful combination of lemon-lime flavor and fizzy satisfaction. Whether enjoyed solo or as the perfect complement to your favorite Jollicode meal, Jollicode Sprite is the invigorating drink that adds a bright and lively touch to any moment.', 53.00, true), (3, 'ROYAL', 'Indulge in the regal refreshment of Jollicode Royal — a sophisticated beverage that exudes elegance and a delightful blend of flavors. Immerse yourself in the smooth, cola taste that defines Royal, offering a perfect harmony of sweetness and effervescence. Whether enjoyed solo or paired with your favorite Jollicode meal, Jollicode Royal is the beverage of choice for those seeking a touch of sophistication in every sip.', 53.00, true), (3, 'ICED TEA', 'Satisfy your thirst with the refreshing Jollicode Iced Tea—an invigorating drink that blends the natural goodness of tea with a touch of sweetness and a citrusy kick. Delight in the cool and revitalizing flavor that Iced Tea delivers, providing a harmonious mix of tastes that complements any Jollicode meal. Whether relished on a warm day or enjoyed alongside your favorite dish, Jollicode Iced Tea is the go-to beverage for those desiring a rejuvenating and flavorful sensation.', 64.00, true), (3, 'PINEAPPLE JUICE', 'Savor the tropical delight of Jollicode Pineapple Juice—an exquisite beverage that captures the essence of sunshine and sweetness in every sip. Immerse yourself in the pure, refreshing taste of ripe pineapples, bursting with natural flavors. Whether enjoyed as a standalone tropical treat or paired with your favorite Jollicode meal, this invigorating pineapple juice is the perfect companion for those seeking a taste of the tropics in every refreshing drop.', 64.00, true), (3, 'CODE FLOAT', 'Embark on a delightful journey with Jollicode Code Float—a delightful fusion of classic Coca-Cola and velvety soft-serve ice cream. Immerse yourself in the effervescent dance of Code harmonizing with the creamy richness of the ice cream, creating a refreshing and satisfying treat. Whether enjoyed solo or paired with your favorite Jollicode meal, Code Float is the perfect blend of bubbly refreshment and creamy sweetness, bringing a touch of joy to every sip.', 57.00, true), (3, 'COFFEE', 'Awaken your senses with the rich and robust Jollicode Coffee—a flavorful brew that invites you to savor the perfect balance of boldness and warmth. Immerse yourself in the aromatic experience as the steam rises from your cup, delivering the comforting essence of freshly brewed coffee. Whether enjoyed as a solo indulgence or paired with your favorite Jollicode meal, this coffee is crafted to elevate your moments, offering a delightful interlude of rich flavor and aromatic bliss.', 48.00, true);

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForms\aLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\bChangepass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\bVerification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\cAdmin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\dItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\eUpdateAvailability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\eUpdatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\userFormItem1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminForms\userFormItem2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminForms\userFormItem3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminForms\fRecordsForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminForms\gRecordsForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeInterface1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeInterface2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\userFormBeverage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\aCustomerInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\eEditOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\userFormMainDish.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\bCustomerOrderInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\cOrderItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\fPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\gPaymentCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\hPaymentEPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\iReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\userFormSideDish.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerForms\dViewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscForms\CancelOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscForms\LoadingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscForms\LoggingOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscForms\OrderDone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscForms\ReceiptLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscForms\ShuttingDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
