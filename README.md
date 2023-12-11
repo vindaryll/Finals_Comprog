@@ -1,12 +1,14 @@
 # Finals_Comprog
 
-BSIT 2101 - GROUP 12
-    ALOCILLO, MELVIN DARYLL
-    JOSE, PRINCESS MIKHAELA
-    MACATANGAY, KEITH CARLO
-    VELASQUEZ, KEN ANGELO
 
-INSTRUCTION:         
+ GROUP 12 - BSIT 2101:
+    - ALOCILLO, MELVIN DARYLL
+    - JOSE, PRINCESS MIKHAELA
+    - MACATANGAY, KEITH CARLO
+    - VELASQUEZ, KEN ANGELO
+
+INSTRUCTION:
+
     IMPORTANT NOTE: 
     MAKE SURE TO REPLACE FOLDER
     PATH AND DATABASE NAME TO AVOID
@@ -24,7 +26,7 @@ INSTRUCTION:
     on any browser
 
 
-Brief Overview:
+BRIEF OVERVIEW:
 
     Jollicode, positioned as a transformative solution, is poised to ameliorate the persistent challenges prevalent in fast-food chains. This innovative Kiosk Food Ordering System has been meticulously designed to address the multifaceted problems inherent in traditional ordering processes.
 
